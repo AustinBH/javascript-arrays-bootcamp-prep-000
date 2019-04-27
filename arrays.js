@@ -3,7 +3,7 @@ var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 function addElementToBeginningOfArray() {
 
 
-  ["Baby Ruth", ...chocolateBars]
+  chocolateBars = ["Baby Ruth", ...chocolateBars]
 
 }
 
