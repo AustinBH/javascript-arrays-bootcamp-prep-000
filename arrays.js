@@ -15,9 +15,13 @@ function destructivelyAddElementToBeginningOfArray() {
 
 function addElementToEndOfArray() {
 
+[...chocolateBars, "milkyway"]
+
 }
 
 function destructivelyAddElementToEndOfArray() {
+
+  chocolateBars.push("milkyway")
 
 }
 
