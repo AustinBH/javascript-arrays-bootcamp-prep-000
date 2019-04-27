@@ -15,7 +15,7 @@ function destructivelyAddElementToBeginningOfArray() {
 
 function addElementToEndOfArray() {
 
-[...chocolateBars, "milkyway"]
+  [...chocolateBars, "milkyway"]
 
 }
 
